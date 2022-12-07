@@ -4,7 +4,8 @@
 - 📫 How to reach me?
 - LinkedIn https://www.linkedin.com/in/shilpa-kumari08/
 - geeksforgeeks: https://auth.geeksforgeeks.org/user/shilpae666
-- quora: quora.com/profile/Shilpa-Kumari-679
+- quora: https://www.quora.com/profile/Shilpa-Kumari-679
+
 
 <!---
 Shilpa805/Shilpa805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
