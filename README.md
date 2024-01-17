@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shilpa805
-- 👀 I’m interested in Python,html,JavaScript,CSS and SQL.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning diffrent coding languages.
 - 📫 How to reach me?
 - LinkedIn https://www.linkedin.com/in/shilpa-kumari08/
