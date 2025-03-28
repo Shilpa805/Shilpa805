@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shilpa805
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning diffrent coding languages.
+- 🌱 I’m currently learning different coding languages.
 - 📫 How to reach me?
 - LinkedIn https://www.linkedin.com/in/shilpa-kumari08/
 - geeksforgeeks: https://auth.geeksforgeeks.org/user/shilpae666
