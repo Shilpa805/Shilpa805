@@ -4,7 +4,6 @@
 - 📫 How to reach me?
 - LinkedIn https://www.linkedin.com/in/shilpa-kumari08/
 - geeksforgeeks: https://auth.geeksforgeeks.org/user/shilpae666
-- quora: https://www.quora.com/profile/Shilpa-Kumari-679
 
 
 <!---
