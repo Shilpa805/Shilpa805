@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Shilpa805
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning different coding languages.
-- 📫 How to reach me?
-- LinkedIn https://www.linkedin.com/in/shilpa-kumari08/
-- geeksforgeeks: https://auth.geeksforgeeks.org/user/shilpae666
+👋 Hi, I’m @Shilpa805
+💻 Expertise: MERN stack, backend architecture, API development, deployment, and scalable applications.
+🏆 Problem Solver: Solved 700+ DSA problems on LeetCode & GeeksforGeeks, with strong skills in data structures and algorithms.
+🎯 Passionate About: Building intelligent systems, optimizing performance, and solving real-world problems with technology*.
+🤖 Exploring: The field of AI and DevOps automation.
+LinkedIn https://www.linkedin.com/in/shilpa-kumari08/
+geeksforgeeks: https://auth.geeksforgeeks.org/user/shilpae666
 
 
 <!---
