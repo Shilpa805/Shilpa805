@@ -8,7 +8,7 @@
 - 🤖 **Exploring:** The field of **AI and DevOps automation**.
 - https://www.linkedin.com/in/shilpa-kumari08/
 
-- ### 🚀 Languages & Tools:
+### 🚀 Languages & Tools:
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
